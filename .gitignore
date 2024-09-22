@@ -1,0 +1,5 @@
+/.editorconfig
+/.env
+/composer.lock
+/vendor
+/vite.config.js
