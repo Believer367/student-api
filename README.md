@@ -11,11 +11,11 @@ This project is a simple REST API developed using Laravel and MongoDB to manage 
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Believer367/student-api.git
 
 2. Navigate to the project directory
    ```bash
-   cd repo-name (ex cd student_api)
+   cd student_api
 
 3. Install dependencies
    ```bash
